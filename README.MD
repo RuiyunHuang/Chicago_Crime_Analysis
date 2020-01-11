@@ -2,4 +2,4 @@
 
 **The goal of this project is for self-interests and not sophisticated and intensive data analysis but data visualization using popular tools recent days.**
 
-**To view better result on [Google Colab](https://drive.google.com/open?id=1V8wkc5K0caqVJJ8ebSAwl34ZG8DeKGAT)
+**For better view on result via [Google Colab](https://drive.google.com/open?id=1V8wkc5K0caqVJJ8ebSAwl34ZG8DeKGAT)**
