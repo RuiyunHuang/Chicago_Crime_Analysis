@@ -56,6 +56,8 @@ The results above reveal the general spatial and time distribution of crime. To 
 
 To predict the crime number, I used a SARIMA model for time series analysis first. The data is split into training data (2016-2018) and testing data(2019). This model does not give a good prediction due to the dual seasonality in the data. So a TBATS model is then used to solve the problem. However, the training time for the latter is much longer(2 seconds vs. 6 minutes)
 
+The number of crime is general stable with a yearly and weekly seasonality. Though chiciago is not becoming safer based on this result, it is still a comfort since the safety situation is not getting worse by time. It means most residents can maintain a living style as before and most companies can maintain thier budget on safety. 
+
 **SARIMAX**
 
 ![image](https://github.com/RuiyunHuang/Chicago_Crime_Analysis/blob/master/figures/SARIMAX.png)
